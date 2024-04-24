@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+
+
+
+header {
+    width: 100%;
+    height: 190px;
+    background-color: blue; 
+    font-family: "Playfair Display", serif;
+    
+}
+   
+body {
+    background-color: rgb(230, 230, 230);
+    font-family: "Roboto Mono", monospace;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+   color: white;
+    font-weight: 700;
+    font-family: "Playfair Display", serif;
+    font-size: 60px
+}
+
+h4 {
+    font-family:"Playfair Display", serif ;
+    font-size: 30px;
+    color: blue;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
+h6 {
+    font-weight: 100;
+    font-family: "Playfair Display", serif;
+}
+
+
+    p {
+        font-family: "Roboto Mono", monospace;
+        font-size: 20px;
+        margin-left: 50px;
+    }
+
+    img { 
+        width: 20%;
+        display: block;
+        margin: auto;
+        border-radius: 50px;
+    }
+
+    ul {
+        text-transform: capitalize;
+    }
+
+
+    #vinculo {
+        color:pink; 
+    }
+
+    #vinculo:hover {
+font-style: italic;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    
